@@ -1,0 +1,4 @@
+s is sample2
+:wq
+
+
