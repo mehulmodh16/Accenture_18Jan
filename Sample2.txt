@@ -1,6 +1,3 @@
-s is sample2
-:wq
-
 https://docs.google.com/document/d/119Jk0ZPBNskGOncbhVRcZBsPMXCld46QTKXC0x_Lrpc/edit
 
 
